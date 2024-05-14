@@ -1,6 +1,6 @@
 # Viranda Store Data Analysis Using Excel
 
-##Objective
+## Objective
 
 Fashion Store plans to generate a sales report for 2023.
 So that,this store can understand customer to enhance sales in 2024.Created sophisticated Fashion Store Dashboard using Excel.
@@ -15,7 +15,7 @@ So that,this store can understand customer to enhance sales in 2024.Created soph
 
 4- Amazon, Flipkart and Myntra channels are max contributing (~80)
 
-#Final Conclusion to improve Fashion store sales:
+# Final Conclusion to improve Fashion store sales:
 
 Target women customers of age group (30-49 yrs) 
 living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
