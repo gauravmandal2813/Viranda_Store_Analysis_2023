@@ -5,7 +5,7 @@
 Fashion Store plans to generate a sales report for 2023.
 So that,this store can understand customer to enhance sales in 2024.Created sophisticated Fashion Store Dashboard using Excel.
 
-#Sample Insights
+## Sample Insights
 
 1- Women are more likely to buy compared to men (~65%)
 
